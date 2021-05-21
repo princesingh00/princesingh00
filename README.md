@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princesingh00&label=Profile%20views&color=0e75b6&style=flat" alt="princesingh00" /> </p>
 
 - 🌱 I’m currently learning **React-native**
-- 👨‍💻 All of my projects are available at [www.princesingh.in](www.princesingh.in)
+- 👨‍💻 All of my projects are available at <a href="https://princesingh.in" target="_blank">www.princesingh.in</a>
 - 💬 Ask me about **Java, ReactJs, NodeJs or Any Development Stuff**
 - 📫 How to reach me **singhprince0088@gmail.com**
 - 📄 Know about my experiences <a href="https://rezume.s3.ap-south-1.amazonaws.com/Prince's+Resume.pdf" target="_blank">resume</a>
