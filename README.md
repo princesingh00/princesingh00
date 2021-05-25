@@ -36,9 +36,11 @@
         src="https://github-readme-stats.vercel.app/api/top-langs?username=princesingh00&show_icons=true&locale=en&layout=compact" 
        alt="princesingh00" />
 </div>
+<br/><br/>
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=princesingh00&show_icons=true&locale=en" alt="princesingh00" />
 </div>
+<br/><br/>
 <div>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=princesingh00&" alt="princesingh00" />
 </div>
