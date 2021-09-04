@@ -14,10 +14,10 @@
 <p align="left">
 
   <a href="https://www.linkedin.com/in/prince-singh-a22584111/" target="_blank">
-    <img align="center" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" 
+    <img align="center" src="https://dwglogo.com/wp-content/uploads/2020/06/Linkedin_symbol_transparent.png" 
          alt="https://www.linkedin.com/in/prince-singh-a22584111/" 
-         height="30"
-         width="40" />
+         height="45"
+         width="60" />
   </a>
 
   <a href="https://medium.com/@singhprince0088" target="_blank">
