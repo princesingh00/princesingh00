@@ -1,4 +1,7 @@
-<h1 align="center">Hey 👋, Prince here</h1>
+<h1 align="center">Hey  
+<img align="center" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"
+         alt="https://www.linkedin.com/in/prince-singh-a22584111/" height="38" width="38" />
+Prince here</h1>
 <h3 align="center">full stack web developer from India, passion to develop web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princesingh00&label=Profile%20views&color=0e75b6&style=flat" alt="princesingh00" /> </p>
