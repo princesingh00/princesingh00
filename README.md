@@ -7,7 +7,7 @@
 
 - I’m currently working with **Microservices, SpringBoot, BPMN workflow, Payment providers**
 - All of my projects are available at <a href="https://princesingh.in" target="_blank">www.princesingh.in</a>
-- Ask me about **Java, ReactJs, NodeJs or Any Development Stuff**
+- Ask me about **Java, ReactJs or Any Development Stuff**
 - How to reach me **singhprince0088@gmail.com**
 - Know about my experiences <a href="https://rezume.s3.ap-south-1.amazonaws.com/Prince's+Resume.pdf" target="_blank">
   resume</a>
