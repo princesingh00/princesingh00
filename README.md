@@ -5,13 +5,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently working with **Microservices, SpringBoot, BPMN workflow, Payment providers**
-- 👨‍💻 All of my projects are available at <a href="https://princesingh.in" target="_blank">www.princesingh.in</a>
-- 💬 Ask me about **Java, ReactJs, NodeJs or Any Development Stuff**
-- 📫 How to reach me **singhprince0088@gmail.com**
-- 📄 Know about my experiences <a href="https://rezume.s3.ap-south-1.amazonaws.com/Prince's+Resume.pdf" target="_blank">
+- I’m currently working with **Microservices, SpringBoot, BPMN workflow, Payment providers**
+- All of my projects are available at <a href="https://princesingh.in" target="_blank">www.princesingh.in</a>
+- Ask me about **Java, ReactJs, NodeJs or Any Development Stuff**
+- How to reach me **singhprince0088@gmail.com**
+- Know about my experiences <a href="https://rezume.s3.ap-south-1.amazonaws.com/Prince's+Resume.pdf" target="_blank">
   resume</a>
-- ⚡ Fun fact **I think I m funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
